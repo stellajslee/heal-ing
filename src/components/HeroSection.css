@@ -25,16 +25,15 @@
     justify-content: center;
 }
 
-.hero-container > h1 {
+.hero-container-title {
     font-family: Montserrat, sans-serif;
     color: #4e4a45;
-    z-index: 1;
     font-size: 80px;
     opacity: 100%;
     margin-top: -100px;
 }
 
-.hero-container > p {
+.hero-container-subtitle {
     text-align: center;
     margin-top: 8px;
     color: #4e4a45;
