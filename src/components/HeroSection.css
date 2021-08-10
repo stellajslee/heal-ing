@@ -1,0 +1,151 @@
+.main-page {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    z-index: -99;
+    background-color: #ebdccd;
+}
+
+.extra {
+    position: relative;
+    height: 100vh;
+}
+
+.hero-container {
+    z-index: 99;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0);
+    object-fit: contain;
+    justify-content: center;
+}
+
+.hero-container > h1 {
+    font-family: Montserrat, sans-serif;
+    color: #4e4a45;
+    font-size: 80px;
+    opacity: 100%;
+    margin-top: -100px;
+}
+
+.hero-container > p {
+    text-align: center;
+    margin-top: 8px;
+    color: #4e4a45;
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.hero-btns {
+    margin-top: 32px;
+}
+
+.hero-btns .btn {
+    margin: 6px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 1058px) {
+    .hero-container > h1 {
+        font-size: 70px;
+    }
+
+    .hero-container > p {
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 927px) {
+    .hero-container > h1 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .hero-container > h1 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 797px) {
+    .hero-container > h1 {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .hero-container > h1 {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 652px) {
+    .hero-container > h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 667px) {
+    .hero-container > h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .hero-container > h1 {
+        font-size: 30px;
+    }
+
+    .hero-container > p {
+        text-align: center;
+        margin-top: 8px;
+        font-size: 20px;
+        font-weight: normal;
+    }
+}
+
+@media screen and (max-width: 391px) {
+    .hero-container > h1 {
+        font-size: 24px;
+    }
+
+    .hero-container > p {
+        text-align: center;
+        margin-top: 8px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+}
+
+@media screen and (max-width: 312px) {
+    .hero-container > h1 {
+        font-size: 22px;
+    }
+
+    .hero-container > p {
+        text-align: center;
+        margin-top: 8px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+}
+
+@media screen and (max-width: 286px) {
+    .hero-container > h1 {
+        font-size: 20px;
+    }
+
+    .hero-container > p {
+        text-align: center;
+        margin-top: 8px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
