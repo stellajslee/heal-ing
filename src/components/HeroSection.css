@@ -28,6 +28,7 @@
 }
 
 .hero-container > h1 {
+    font-family: Montserrat, sans-serif;
     color: #4e4a45;
     font-size: 80px;
     opacity: 100%;
