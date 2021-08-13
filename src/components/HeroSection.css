@@ -32,13 +32,13 @@
     font-family: Neucha, cursive;
     color: #4e4a45;
     font-size: 100px;
-    opacity: 100%;
     margin-top: -100px;
     text-align: center;
     font-weight: bold;
 }
 
 .subtitle {
+    font-family: Neucha, cursive;
     text-align: center;
     margin-top: 8px;
     color: #4e4a45;
