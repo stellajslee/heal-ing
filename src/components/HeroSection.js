@@ -9,8 +9,8 @@ function HeroSection() {
         <>
             <div className= 'hero-container'>
                 <div className='main-page'></div>
-                <div className='title'>we're so glad you're here</div>
-                <p>because mental health matters</p>
+                <p className='title'>we're so glad you're here</p>
+                <p className='subtitle'>because mental health matters</p>
                 <div className = "hero-btns">
                     <Link to = '/learn'>
                         <Button>learn</Button>
