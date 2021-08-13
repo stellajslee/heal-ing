@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/heal-ing/static/css/main.fbdb61fd.chunk.css",
-    "main.js": "/heal-ing/static/js/main.b72434be.chunk.js",
-    "main.js.map": "/heal-ing/static/js/main.b72434be.chunk.js.map",
+    "main.css": "/heal-ing/static/css/main.23c50a49.chunk.css",
+    "main.js": "/heal-ing/static/js/main.f16b3832.chunk.js",
+    "main.js.map": "/heal-ing/static/js/main.f16b3832.chunk.js.map",
     "runtime-main.js": "/heal-ing/static/js/runtime-main.bd18735c.js",
     "runtime-main.js.map": "/heal-ing/static/js/runtime-main.bd18735c.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/heal-ing/static/css/2.7fc9bc2b.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.b304c4f7.chunk.js.map": "/heal-ing/static/js/3.b304c4f7.chunk.js.map",
     "index.html": "/heal-ing/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/heal-ing/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.fbdb61fd.chunk.css.map": "/heal-ing/static/css/main.fbdb61fd.chunk.css.map",
+    "static/css/main.23c50a49.chunk.css.map": "/heal-ing/static/css/main.23c50a49.chunk.css.map",
     "static/js/2.fed65bfd.chunk.js.LICENSE.txt": "/heal-ing/static/js/2.fed65bfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd18735c.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.fed65bfd.chunk.js",
-    "static/css/main.fbdb61fd.chunk.css",
-    "static/js/main.b72434be.chunk.js"
+    "static/css/main.23c50a49.chunk.css",
+    "static/js/main.f16b3832.chunk.js"
   ]
 }
