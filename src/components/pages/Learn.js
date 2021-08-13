@@ -2,8 +2,6 @@ import React, { useEffect } from 'react';
 import './Learn.css';
 import Aos from "aos";
 import "aos/dist/aos.css";
-import { Link } from "react-router-dom";
-import { Button } from "../Button";
 import './Learn.css';
 import LearnMore from "./LearnMore";
 import LearnMore2 from "./LearnMore2";

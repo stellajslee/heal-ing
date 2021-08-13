@@ -9,7 +9,7 @@ function HeroSection() {
         <>
             <div className= 'hero-container'>
                 <div className='main-page'></div>
-                <p>we're so glad you're here</p>
+                <div className='title'>we're so glad you're here</div>
                 <p>because mental health matters</p>
                 <div className = "hero-btns">
                     <Link to = '/learn'>
